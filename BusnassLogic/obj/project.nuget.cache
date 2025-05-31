@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H8I3/PbndAQ=",
+  "success": true,
+  "projectFilePath": "C:\\Drive(D)\\DelegatesExample\\DelegatesExample\\BusnassLogic\\BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\girig\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\girig\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\girig\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
